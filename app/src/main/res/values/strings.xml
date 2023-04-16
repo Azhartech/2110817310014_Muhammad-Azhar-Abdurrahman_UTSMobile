@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bundasliga Club</string>
+    <string name="club_name">club_name</string>
+    <string name="didirikan">didirikan</string>
+    <string name="anggotaclub">anggotaclub</string>
+    <string name="description">description</string>
+</resources>
